@@ -5,9 +5,7 @@ This project develops machine learning models to predict the number of acres tre
 
 ## Team Members
 - **Gnanasudharsan Ashokumar** - ashokumar.g@northeastern.edu
-- **Meghana Rao** - rao.meg@northeastern.edu
 - **Meena Periasamy** - periasamy.m@northeastern.edu
-- **Nirmalkumar Thirupallikrishnan Kesavan** - thirupallikrishnan.n@northeastern.edu
 
 ## Dataset
 The dataset used is the **Hazardous Fuel Treatment Reduction – Polygon Feature Layer** from the U.S. Forest Service through Data.gov. It contains detailed information about fuel treatment activities across U.S. federal lands.
